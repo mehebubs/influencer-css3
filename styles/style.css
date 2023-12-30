@@ -26,6 +26,7 @@ nav {
     margin-top: 85px;
 }
 
+
 nav .none {
     display: none;
 }
@@ -287,7 +288,7 @@ i {
 
     nav {
         margin-top: 0%;
-        margin-bottom: 12%;
+        margin-bottom: 20%;
     }
 
     nav h2 {

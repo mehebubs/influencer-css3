@@ -104,10 +104,6 @@ h1 {
     margin-top: 100px;
 }
 
-.camera img {
-    position: relative;
-    bottom: 450px;
-}
 
 /* logos */
 .logos {
@@ -270,10 +266,11 @@ i {
         width: 100%;
     }
 
+    /* nav-bar */
     nav .none {
         display: block;
         color: black;
-        margin-left: 7%;
+        margin-left: 2%;
     }
 
     nav a {
@@ -282,7 +279,7 @@ i {
 
     nav {
         margin-top: 0%;
-        margin-bottom: 25%;
+        margin-bottom: 12%;
     }
 
     nav h2 {
@@ -324,6 +321,7 @@ i {
 
     }
 
+    /* influ. */
     .influencer {
         width: 100%;
         flex-direction: column-reverse;
@@ -337,13 +335,6 @@ i {
 
     .thumblain img {
         width: 100%;
-    }
-
-    .thumblain .camera {
-        position: absolute;
-        margin-top: 30%;
-        margin-left: 5%;
-        margin-right: 20%;
     }
 
     .details h1 {
@@ -363,15 +354,15 @@ i {
 
     /* part-2-logos */
     hr {
-        display: none;
+        width: 100%;
+
     }
 
     .logos {
-
+        width: 100%;
         flex-wrap: wrap;
-        width: 400px;
         align-items: center;
-        margin: 40px;
+        margin: 10px;
     }
 
     /* 3rd-part */
@@ -394,6 +385,10 @@ i {
         width: 100%;
         margin-left: 0%;
         flex-direction: column-reverse;
+    }
+
+    .features img {
+        width: 100%;
     }
 
     .feature-details {

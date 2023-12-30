@@ -120,7 +120,15 @@ h1 {
     font-weight: 700;
     line-height: 70px;
     text-align: center;
+    width: 1047px;
+    margin-left: 195px;
     margin-top: 97px;
+}
+
+.see-more {
+    width: 1047px;
+    margin-left: 195px;
+    text-align: end;
 }
 
 .container {
@@ -174,8 +182,8 @@ span {
 .scroll-bar {
     color: rgba(224, 44, 109, 0.87);
     font-weight: 700;
-    text-align: end;
-    margin-right: 197px;
+
+
 }
 
 .scroll-bar i {
@@ -366,6 +374,8 @@ i {
     }
 
     /* 3rd-part */
+
+
     .container {
         margin: 0%;
         width: 100%;
@@ -373,11 +383,18 @@ i {
     }
 
     .third-section h3 {
+        width: 100%;
+        margin: 0%;
         font-size: 16px;
     }
 
     .third-section p {
         margin: 0%;
+    }
+
+    .see-more {
+        margin: 0;
+        width: 100%;
     }
 
     /* 4rth-part */

@@ -310,7 +310,7 @@ i {
 
     .thumblain .camera {
         position: absolute;
-        margin-top: 20%;
+        margin-top: 30%;
         margin-left: 5%;
         margin-right: 20%;
     }
@@ -340,7 +340,7 @@ i {
         flex-wrap: wrap;
         width: 400px;
         align-items: center;
-        margin: 75px;
+        margin: 40px;
     }
 
     /* 3rd-part */
